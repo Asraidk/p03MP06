@@ -1,0 +1,11 @@
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\bin\Debug\p03MP06.exe.config
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\bin\Debug\p03MP06.exe
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\bin\Debug\p03MP06.pdb
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\bin\Debug\p03MP06.xml
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.Form1.resources
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.Resources.resources
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.vbproj.GenerateResource.Cache
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.exe
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.xml
+c:\users\portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.pdb
+C:\Users\Portatil\documents\visual studio 2013\Projects\p03MP06\p03MP06\obj\Debug\p03MP06.vbprojResolveAssemblyReference.cache
