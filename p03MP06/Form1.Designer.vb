@@ -358,7 +358,7 @@ Partial Class Form1
         Me.GroupBox2.Size = New System.Drawing.Size(263, 102)
         Me.GroupBox2.TabIndex = 81
         Me.GroupBox2.TabStop = False
-        Me.GroupBox2.Text = "Informacio camps"
+        Me.GroupBox2.Text = "Informacio ultims canvis"
         '
         'Label12
         '
